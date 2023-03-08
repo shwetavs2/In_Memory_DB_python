@@ -1,5 +1,4 @@
 
-### Name: Shweta Shete , Red id: 825897742 ###
 
 from ArrayOperations import ArrayOperations
 from Objectoperations import ObjectOperations
